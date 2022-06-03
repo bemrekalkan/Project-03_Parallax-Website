@@ -6,6 +6,8 @@
 
 ## GO TO NETLIFY ➡ https://03parallaxwebsite.netlify.app/
 
+<p><img align="center" alt="gif" src="./img/Project-03-Parallax-Website.gif" width="500" height="320" /></p>
+
 ## Description
 
 Project aims to create parallax website.
